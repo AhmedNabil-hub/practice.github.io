@@ -31,18 +31,7 @@ body {
     font-weight: bolder;
 }
 
-.up span {
-    width: 100%;
-    background-color: #4b5557;
-    border: none;
-    opacity: 0.9;
-    color: #2dcc70;
-    padding: 30px;
-    float: inline-start;
-    text-align: center;
-    font-size: x-large;
-    position: fixed;
-}
+
 
 
 /*Begin Header*/
